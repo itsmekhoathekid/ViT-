@@ -1,0 +1,39 @@
+training:
+  epochs: 100
+  batch_size: 8
+  save_path: "/home/anhkhoa/ViT-/saves"
+  train_path : "/home/anhkhoa/ComputerVisionPlus/data/HoaVietNam/train"
+  dev_path : "/home/anhkhoa/ComputerVisionPlus/data/HoaVietNam/test"
+  test_path : "/home/anhkhoa/ComputerVisionPlus/data/HoaVietNam/test"
+  reload: False
+  logg : "/home/anhkhoa/ViT-/logs/r_tasa.log"
+  result: "/home/anhkhoa/ViT-/result.txt"
+  num_workers: 2
+  
+
+
+optim:
+  type: adam
+  lr: 0.0003
+  weight_decay: 0.0001
+  decay_rate: 0.5
+
+scheduler:
+  lr_initial: 0.0003
+  n_warmup_steps: 700
+
+model:
+  image_size: 224
+  patch_size: 16
+  in_channels: 3
+  num_classes: 5
+  d_model: 256
+  n_heads: 8
+  d_ff: 512
+  n_layers: 6
+  dropout: 0.1
+  model_name: ViT
+
+
+
+
