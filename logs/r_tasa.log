@@ -296,3 +296,303 @@
 2025-10-04 13:07:33,820 - Average training loss: 0.0054
 2025-10-04 13:07:33,988 - Average validation loss: 0.3009, Accuracy: 92.00%
 2025-10-04 13:07:33,989 - Epoch 100: Train Loss = 0.0054, Val Loss = 0.3009, LR = 0.000182
+2025-10-04 13:20:01,050 - Average training loss: 1.6242
+2025-10-04 13:20:01,614 - Average validation loss: 1.5072, Accuracy: 36.00%
+2025-10-04 13:20:01,614 - Epoch 1: Train Loss = 1.6242, Val Loss = 1.5072, LR = 0.000008
+2025-10-04 13:20:02,715 - Average training loss: 1.4780
+2025-10-04 13:20:03,102 - Average validation loss: 1.3894, Accuracy: 34.00%
+2025-10-04 13:20:03,103 - Epoch 2: Train Loss = 1.4780, Val Loss = 1.3894, LR = 0.000016
+2025-10-04 13:20:04,262 - Average training loss: 1.2746
+2025-10-04 13:20:04,468 - Average validation loss: 1.2388, Accuracy: 66.00%
+2025-10-04 13:20:04,469 - Epoch 3: Train Loss = 1.2746, Val Loss = 1.2388, LR = 0.000024
+2025-10-04 13:20:05,595 - Average training loss: 1.1313
+2025-10-04 13:20:05,842 - Average validation loss: 1.0678, Accuracy: 52.00%
+2025-10-04 13:20:05,842 - Epoch 4: Train Loss = 1.1313, Val Loss = 1.0678, LR = 0.000032
+2025-10-04 13:20:06,899 - Average training loss: 0.9986
+2025-10-04 13:20:07,182 - Average validation loss: 1.0289, Accuracy: 68.00%
+2025-10-04 13:20:07,182 - Epoch 5: Train Loss = 0.9986, Val Loss = 1.0289, LR = 0.000040
+2025-10-04 13:20:08,541 - Average training loss: 0.8950
+2025-10-04 13:20:08,759 - Average validation loss: 0.9317, Accuracy: 62.00%
+2025-10-04 13:20:08,759 - Epoch 6: Train Loss = 0.8950, Val Loss = 0.9317, LR = 0.000048
+2025-10-04 13:20:10,106 - Average training loss: 0.8058
+2025-10-04 13:20:10,398 - Average validation loss: 0.7639, Accuracy: 82.00%
+2025-10-04 13:20:10,399 - Epoch 7: Train Loss = 0.8058, Val Loss = 0.7639, LR = 0.000057
+2025-10-04 13:20:11,398 - Average training loss: 0.7273
+2025-10-04 13:20:11,618 - Average validation loss: 0.8275, Accuracy: 70.00%
+2025-10-04 13:20:11,619 - Epoch 8: Train Loss = 0.7273, Val Loss = 0.8275, LR = 0.000065
+2025-10-04 13:20:12,469 - Average training loss: 0.6541
+2025-10-04 13:20:12,710 - Average validation loss: 0.8199, Accuracy: 68.00%
+2025-10-04 13:20:12,711 - Epoch 9: Train Loss = 0.6541, Val Loss = 0.8199, LR = 0.000073
+2025-10-04 13:20:13,765 - Average training loss: 0.6545
+2025-10-04 13:20:14,031 - Average validation loss: 0.8819, Accuracy: 72.00%
+2025-10-04 13:20:14,032 - Epoch 10: Train Loss = 0.6545, Val Loss = 0.8819, LR = 0.000081
+2025-10-04 13:20:14,966 - Average training loss: 0.6349
+2025-10-04 13:20:15,177 - Average validation loss: 0.9212, Accuracy: 62.00%
+2025-10-04 13:20:15,178 - Epoch 11: Train Loss = 0.6349, Val Loss = 0.9212, LR = 0.000089
+2025-10-04 13:20:16,306 - Average training loss: 0.6219
+2025-10-04 13:20:16,624 - Average validation loss: 0.7347, Accuracy: 70.00%
+2025-10-04 13:20:16,624 - Epoch 12: Train Loss = 0.6219, Val Loss = 0.7347, LR = 0.000097
+2025-10-04 13:20:17,489 - Average training loss: 0.5260
+2025-10-04 13:20:17,747 - Average validation loss: 0.5766, Accuracy: 80.00%
+2025-10-04 13:20:17,748 - Epoch 13: Train Loss = 0.5260, Val Loss = 0.5766, LR = 0.000105
+2025-10-04 13:20:18,700 - Average training loss: 0.4412
+2025-10-04 13:20:18,913 - Average validation loss: 0.8691, Accuracy: 74.00%
+2025-10-04 13:20:18,913 - Epoch 14: Train Loss = 0.4412, Val Loss = 0.8691, LR = 0.000114
+2025-10-04 13:20:19,879 - Average training loss: 0.4399
+2025-10-04 13:20:20,151 - Average validation loss: 0.5171, Accuracy: 84.00%
+2025-10-04 13:20:20,152 - Epoch 15: Train Loss = 0.4399, Val Loss = 0.5171, LR = 0.000122
+2025-10-04 13:20:19,365 - Average training loss: 0.3433
+2025-10-04 13:20:19,598 - Average validation loss: 0.5450, Accuracy: 86.00%
+2025-10-04 13:20:19,598 - Epoch 16: Train Loss = 0.3433, Val Loss = 0.5450, LR = 0.000130
+2025-10-04 13:20:20,493 - Average training loss: 0.3335
+2025-10-04 13:20:20,891 - Average validation loss: 0.5254, Accuracy: 82.00%
+2025-10-04 13:20:20,892 - Epoch 17: Train Loss = 0.3335, Val Loss = 0.5254, LR = 0.000138
+2025-10-04 13:20:21,809 - Average training loss: 0.3979
+2025-10-04 13:20:22,007 - Average validation loss: 0.7733, Accuracy: 70.00%
+2025-10-04 13:20:22,007 - Epoch 18: Train Loss = 0.3979, Val Loss = 0.7733, LR = 0.000146
+2025-10-04 13:20:22,918 - Average training loss: 0.3245
+2025-10-04 13:20:23,152 - Average validation loss: 0.4826, Accuracy: 88.00%
+2025-10-04 13:20:23,153 - Epoch 19: Train Loss = 0.3245, Val Loss = 0.4826, LR = 0.000154
+2025-10-04 13:20:24,050 - Average training loss: 0.2791
+2025-10-04 13:20:24,222 - Average validation loss: 0.7049, Accuracy: 78.00%
+2025-10-04 13:20:24,223 - Epoch 20: Train Loss = 0.2791, Val Loss = 0.7049, LR = 0.000162
+2025-10-04 13:20:25,138 - Average training loss: 0.2100
+2025-10-04 13:20:25,379 - Average validation loss: 0.5024, Accuracy: 88.00%
+2025-10-04 13:20:25,380 - Epoch 21: Train Loss = 0.2100, Val Loss = 0.5024, LR = 0.000171
+2025-10-04 13:20:26,269 - Average training loss: 0.2103
+2025-10-04 13:20:26,451 - Average validation loss: 0.7103, Accuracy: 82.00%
+2025-10-04 13:20:26,451 - Epoch 22: Train Loss = 0.2103, Val Loss = 0.7103, LR = 0.000179
+2025-10-04 13:20:27,645 - Average training loss: 0.2137
+2025-10-04 13:20:27,890 - Average validation loss: 0.5010, Accuracy: 86.00%
+2025-10-04 13:20:27,891 - Epoch 23: Train Loss = 0.2137, Val Loss = 0.5010, LR = 0.000187
+2025-10-04 13:20:28,801 - Average training loss: 0.1912
+2025-10-04 13:20:29,039 - Average validation loss: 0.8136, Accuracy: 84.00%
+2025-10-04 13:20:29,039 - Epoch 24: Train Loss = 0.1912, Val Loss = 0.8136, LR = 0.000195
+2025-10-04 13:20:29,867 - Average training loss: 0.1159
+2025-10-04 13:20:30,092 - Average validation loss: 0.4570, Accuracy: 90.00%
+2025-10-04 13:20:30,092 - Epoch 25: Train Loss = 0.1159, Val Loss = 0.4570, LR = 0.000203
+2025-10-04 13:20:30,954 - Average training loss: 0.1036
+2025-10-04 13:20:31,154 - Average validation loss: 0.5513, Accuracy: 80.00%
+2025-10-04 13:20:31,154 - Epoch 26: Train Loss = 0.1036, Val Loss = 0.5513, LR = 0.000211
+2025-10-04 13:20:32,003 - Average training loss: 0.1332
+2025-10-04 13:20:32,189 - Average validation loss: 0.4231, Accuracy: 80.00%
+2025-10-04 13:20:32,190 - Epoch 27: Train Loss = 0.1332, Val Loss = 0.4231, LR = 0.000219
+2025-10-04 13:20:32,958 - Average training loss: 0.0979
+2025-10-04 13:20:33,131 - Average validation loss: 0.6019, Accuracy: 88.00%
+2025-10-04 13:20:33,131 - Epoch 28: Train Loss = 0.0979, Val Loss = 0.6019, LR = 0.000228
+2025-10-04 13:20:33,909 - Average training loss: 0.0695
+2025-10-04 13:20:34,084 - Average validation loss: 0.7012, Accuracy: 90.00%
+2025-10-04 13:20:34,085 - Epoch 29: Train Loss = 0.0695, Val Loss = 0.7012, LR = 0.000236
+2025-10-04 13:20:34,956 - Average training loss: 0.0753
+2025-10-04 13:20:35,138 - Average validation loss: 0.6163, Accuracy: 84.00%
+2025-10-04 13:20:35,139 - Epoch 30: Train Loss = 0.0753, Val Loss = 0.6163, LR = 0.000244
+2025-10-04 13:20:36,022 - Average training loss: 0.0895
+2025-10-04 13:20:36,241 - Average validation loss: 0.6010, Accuracy: 84.00%
+2025-10-04 13:20:36,242 - Epoch 31: Train Loss = 0.0895, Val Loss = 0.6010, LR = 0.000252
+2025-10-04 13:20:37,124 - Average training loss: 0.0466
+2025-10-04 13:20:37,308 - Average validation loss: 0.8301, Accuracy: 82.00%
+2025-10-04 13:20:37,309 - Epoch 32: Train Loss = 0.0466, Val Loss = 0.8301, LR = 0.000260
+2025-10-04 13:20:38,093 - Average training loss: 0.0713
+2025-10-04 13:20:38,266 - Average validation loss: 1.0194, Accuracy: 88.00%
+2025-10-04 13:20:38,266 - Epoch 33: Train Loss = 0.0713, Val Loss = 1.0194, LR = 0.000268
+2025-10-04 13:20:39,188 - Average training loss: 0.1423
+2025-10-04 13:20:39,361 - Average validation loss: 0.5162, Accuracy: 84.00%
+2025-10-04 13:20:39,361 - Epoch 34: Train Loss = 0.1423, Val Loss = 0.5162, LR = 0.000276
+2025-10-04 13:20:40,169 - Average training loss: 0.1198
+2025-10-04 13:20:40,345 - Average validation loss: 0.4612, Accuracy: 90.00%
+2025-10-04 13:20:40,346 - Epoch 35: Train Loss = 0.1198, Val Loss = 0.4612, LR = 0.000285
+2025-10-04 13:20:41,154 - Average training loss: 0.0997
+2025-10-04 13:20:41,330 - Average validation loss: 1.1456, Accuracy: 72.00%
+2025-10-04 13:20:41,330 - Epoch 36: Train Loss = 0.0997, Val Loss = 1.1456, LR = 0.000293
+2025-10-04 13:20:42,151 - Average training loss: 0.2212
+2025-10-04 13:20:42,329 - Average validation loss: 0.7469, Accuracy: 82.00%
+2025-10-04 13:20:42,329 - Epoch 37: Train Loss = 0.2212, Val Loss = 0.7469, LR = 0.000300
+2025-10-04 13:20:43,113 - Average training loss: 0.1553
+2025-10-04 13:20:43,300 - Average validation loss: 0.9336, Accuracy: 82.00%
+2025-10-04 13:20:43,301 - Epoch 38: Train Loss = 0.1553, Val Loss = 0.9336, LR = 0.000296
+2025-10-04 13:20:44,164 - Average training loss: 0.0887
+2025-10-04 13:20:44,330 - Average validation loss: 0.6628, Accuracy: 90.00%
+2025-10-04 13:20:44,330 - Epoch 39: Train Loss = 0.0887, Val Loss = 0.6628, LR = 0.000292
+2025-10-04 13:20:45,143 - Average training loss: 0.0273
+2025-10-04 13:20:45,326 - Average validation loss: 0.5991, Accuracy: 88.00%
+2025-10-04 13:20:45,327 - Epoch 40: Train Loss = 0.0273, Val Loss = 0.5991, LR = 0.000288
+2025-10-04 13:20:46,124 - Average training loss: 0.0399
+2025-10-04 13:20:46,319 - Average validation loss: 0.5226, Accuracy: 86.00%
+2025-10-04 13:20:46,320 - Epoch 41: Train Loss = 0.0399, Val Loss = 0.5226, LR = 0.000285
+2025-10-04 13:20:47,132 - Average training loss: 0.0140
+2025-10-04 13:20:47,322 - Average validation loss: 0.6551, Accuracy: 82.00%
+2025-10-04 13:20:47,323 - Epoch 42: Train Loss = 0.0140, Val Loss = 0.6551, LR = 0.000281
+2025-10-04 13:20:48,128 - Average training loss: 0.0163
+2025-10-04 13:20:48,304 - Average validation loss: 0.5334, Accuracy: 88.00%
+2025-10-04 13:20:48,304 - Epoch 43: Train Loss = 0.0163, Val Loss = 0.5334, LR = 0.000278
+2025-10-04 13:20:49,192 - Average training loss: 0.0098
+2025-10-04 13:20:49,412 - Average validation loss: 0.6711, Accuracy: 88.00%
+2025-10-04 13:20:49,412 - Epoch 44: Train Loss = 0.0098, Val Loss = 0.6711, LR = 0.000275
+2025-10-04 13:20:50,194 - Average training loss: 0.0206
+2025-10-04 13:20:50,366 - Average validation loss: 0.8393, Accuracy: 86.00%
+2025-10-04 13:20:50,367 - Epoch 45: Train Loss = 0.0206, Val Loss = 0.8393, LR = 0.000272
+2025-10-04 13:20:49,383 - Average training loss: 0.0720
+2025-10-04 13:20:49,556 - Average validation loss: 0.5014, Accuracy: 88.00%
+2025-10-04 13:20:49,557 - Epoch 46: Train Loss = 0.0720, Val Loss = 0.5014, LR = 0.000269
+2025-10-04 13:20:50,358 - Average training loss: 0.0307
+2025-10-04 13:20:50,525 - Average validation loss: 0.6723, Accuracy: 88.00%
+2025-10-04 13:20:50,527 - Epoch 47: Train Loss = 0.0307, Val Loss = 0.6723, LR = 0.000266
+2025-10-04 13:20:51,358 - Average training loss: 0.0839
+2025-10-04 13:20:51,558 - Average validation loss: 0.8733, Accuracy: 82.00%
+2025-10-04 13:20:51,559 - Epoch 48: Train Loss = 0.0839, Val Loss = 0.8733, LR = 0.000263
+2025-10-04 13:20:52,352 - Average training loss: 0.2178
+2025-10-04 13:20:52,520 - Average validation loss: 0.9301, Accuracy: 76.00%
+2025-10-04 13:20:52,521 - Epoch 49: Train Loss = 0.2178, Val Loss = 0.9301, LR = 0.000260
+2025-10-04 13:20:53,302 - Average training loss: 0.0966
+2025-10-04 13:20:53,476 - Average validation loss: 0.8173, Accuracy: 82.00%
+2025-10-04 13:20:53,476 - Epoch 50: Train Loss = 0.0966, Val Loss = 0.8173, LR = 0.000258
+2025-10-04 13:20:54,285 - Average training loss: 0.0896
+2025-10-04 13:20:54,455 - Average validation loss: 0.5736, Accuracy: 86.00%
+2025-10-04 13:20:54,455 - Epoch 51: Train Loss = 0.0896, Val Loss = 0.5736, LR = 0.000255
+2025-10-04 13:20:55,236 - Average training loss: 0.0340
+2025-10-04 13:20:55,401 - Average validation loss: 0.4156, Accuracy: 86.00%
+2025-10-04 13:20:55,402 - Epoch 52: Train Loss = 0.0340, Val Loss = 0.4156, LR = 0.000253
+2025-10-04 13:20:56,195 - Average training loss: 0.0183
+2025-10-04 13:20:56,356 - Average validation loss: 0.3593, Accuracy: 92.00%
+2025-10-04 13:20:56,357 - Epoch 53: Train Loss = 0.0183, Val Loss = 0.3593, LR = 0.000250
+2025-10-04 13:20:57,120 - Average training loss: 0.0053
+2025-10-04 13:20:57,325 - Average validation loss: 0.3803, Accuracy: 88.00%
+2025-10-04 13:20:57,325 - Epoch 54: Train Loss = 0.0053, Val Loss = 0.3803, LR = 0.000248
+2025-10-04 13:20:58,127 - Average training loss: 0.0216
+2025-10-04 13:20:58,342 - Average validation loss: 0.3127, Accuracy: 90.00%
+2025-10-04 13:20:58,342 - Epoch 55: Train Loss = 0.0216, Val Loss = 0.3127, LR = 0.000246
+2025-10-04 13:20:59,199 - Average training loss: 0.0109
+2025-10-04 13:20:59,359 - Average validation loss: 0.4734, Accuracy: 90.00%
+2025-10-04 13:20:59,359 - Epoch 56: Train Loss = 0.0109, Val Loss = 0.4734, LR = 0.000243
+2025-10-04 13:21:00,122 - Average training loss: 0.0059
+2025-10-04 13:21:00,342 - Average validation loss: 0.4594, Accuracy: 88.00%
+2025-10-04 13:21:00,342 - Epoch 57: Train Loss = 0.0059, Val Loss = 0.4594, LR = 0.000241
+2025-10-04 13:21:01,135 - Average training loss: 0.0019
+2025-10-04 13:21:01,303 - Average validation loss: 0.3803, Accuracy: 88.00%
+2025-10-04 13:21:01,304 - Epoch 58: Train Loss = 0.0019, Val Loss = 0.3803, LR = 0.000239
+2025-10-04 13:21:02,081 - Average training loss: 0.0010
+2025-10-04 13:21:02,246 - Average validation loss: 0.3605, Accuracy: 90.00%
+2025-10-04 13:21:02,246 - Epoch 59: Train Loss = 0.0010, Val Loss = 0.3605, LR = 0.000237
+2025-10-04 13:21:03,054 - Average training loss: 0.0009
+2025-10-04 13:21:03,229 - Average validation loss: 0.3657, Accuracy: 92.00%
+2025-10-04 13:21:03,230 - Epoch 60: Train Loss = 0.0009, Val Loss = 0.3657, LR = 0.000235
+2025-10-04 13:21:04,001 - Average training loss: 0.0008
+2025-10-04 13:21:04,177 - Average validation loss: 0.4337, Accuracy: 88.00%
+2025-10-04 13:21:04,178 - Epoch 61: Train Loss = 0.0008, Val Loss = 0.4337, LR = 0.000233
+2025-10-04 13:21:04,986 - Average training loss: 0.0007
+2025-10-04 13:21:05,157 - Average validation loss: 0.4283, Accuracy: 88.00%
+2025-10-04 13:21:05,157 - Epoch 62: Train Loss = 0.0007, Val Loss = 0.4283, LR = 0.000231
+2025-10-04 13:21:05,946 - Average training loss: 0.0008
+2025-10-04 13:21:06,113 - Average validation loss: 0.3570, Accuracy: 88.00%
+2025-10-04 13:21:06,113 - Epoch 63: Train Loss = 0.0008, Val Loss = 0.3570, LR = 0.000230
+2025-10-04 13:21:06,904 - Average training loss: 0.0006
+2025-10-04 13:21:07,080 - Average validation loss: 0.3473, Accuracy: 92.00%
+2025-10-04 13:21:07,081 - Epoch 64: Train Loss = 0.0006, Val Loss = 0.3473, LR = 0.000228
+2025-10-04 13:21:07,872 - Average training loss: 0.0004
+2025-10-04 13:21:08,035 - Average validation loss: 0.3422, Accuracy: 90.00%
+2025-10-04 13:21:08,035 - Epoch 65: Train Loss = 0.0004, Val Loss = 0.3422, LR = 0.000226
+2025-10-04 13:21:08,960 - Average training loss: 0.0004
+2025-10-04 13:21:09,142 - Average validation loss: 0.3478, Accuracy: 90.00%
+2025-10-04 13:21:09,142 - Epoch 66: Train Loss = 0.0004, Val Loss = 0.3478, LR = 0.000224
+2025-10-04 13:21:10,132 - Average training loss: 0.0004
+2025-10-04 13:21:10,309 - Average validation loss: 0.3720, Accuracy: 90.00%
+2025-10-04 13:21:10,310 - Epoch 67: Train Loss = 0.0004, Val Loss = 0.3720, LR = 0.000223
+2025-10-04 13:21:11,104 - Average training loss: 0.0005
+2025-10-04 13:21:11,273 - Average validation loss: 0.5140, Accuracy: 88.00%
+2025-10-04 13:21:11,273 - Epoch 68: Train Loss = 0.0005, Val Loss = 0.5140, LR = 0.000221
+2025-10-04 13:21:12,056 - Average training loss: 0.0004
+2025-10-04 13:21:12,219 - Average validation loss: 0.4560, Accuracy: 88.00%
+2025-10-04 13:21:12,219 - Epoch 69: Train Loss = 0.0004, Val Loss = 0.4560, LR = 0.000219
+2025-10-04 13:21:13,000 - Average training loss: 0.0003
+2025-10-04 13:21:13,164 - Average validation loss: 0.4504, Accuracy: 88.00%
+2025-10-04 13:21:13,165 - Epoch 70: Train Loss = 0.0003, Val Loss = 0.4504, LR = 0.000218
+2025-10-04 13:21:13,928 - Average training loss: 0.0003
+2025-10-04 13:21:14,091 - Average validation loss: 0.7243, Accuracy: 88.00%
+2025-10-04 13:21:14,091 - Epoch 71: Train Loss = 0.0003, Val Loss = 0.7243, LR = 0.000216
+2025-10-04 13:21:14,866 - Average training loss: 0.0003
+2025-10-04 13:21:15,073 - Average validation loss: 0.4792, Accuracy: 88.00%
+2025-10-04 13:21:15,074 - Epoch 72: Train Loss = 0.0003, Val Loss = 0.4792, LR = 0.000215
+2025-10-04 13:21:16,026 - Average training loss: 0.0003
+2025-10-04 13:21:16,231 - Average validation loss: 0.4763, Accuracy: 88.00%
+2025-10-04 13:21:16,232 - Epoch 73: Train Loss = 0.0003, Val Loss = 0.4763, LR = 0.000213
+2025-10-04 13:21:17,114 - Average training loss: 0.0002
+2025-10-04 13:21:17,306 - Average validation loss: 0.4729, Accuracy: 90.00%
+2025-10-04 13:21:17,306 - Epoch 74: Train Loss = 0.0002, Val Loss = 0.4729, LR = 0.000212
+2025-10-04 13:21:18,188 - Average training loss: 0.0002
+2025-10-04 13:21:18,396 - Average validation loss: 0.4889, Accuracy: 88.00%
+2025-10-04 13:21:18,397 - Epoch 75: Train Loss = 0.0002, Val Loss = 0.4889, LR = 0.000210
+2025-10-04 13:21:19,251 - Average training loss: 0.0002
+2025-10-04 13:21:19,449 - Average validation loss: 0.6212, Accuracy: 88.00%
+2025-10-04 13:21:19,450 - Epoch 76: Train Loss = 0.0002, Val Loss = 0.6212, LR = 0.000209
+2025-10-04 13:21:20,271 - Average training loss: 0.0002
+2025-10-04 13:21:20,463 - Average validation loss: 0.5292, Accuracy: 88.00%
+2025-10-04 13:21:20,464 - Epoch 77: Train Loss = 0.0002, Val Loss = 0.5292, LR = 0.000208
+2025-10-04 13:21:21,323 - Average training loss: 0.0003
+2025-10-04 13:21:21,526 - Average validation loss: 0.6180, Accuracy: 90.00%
+2025-10-04 13:21:21,527 - Epoch 78: Train Loss = 0.0003, Val Loss = 0.6180, LR = 0.000206
+2025-10-04 13:21:20,568 - Average training loss: 0.2170
+2025-10-04 13:21:20,782 - Average validation loss: 1.2268, Accuracy: 88.00%
+2025-10-04 13:21:20,782 - Epoch 79: Train Loss = 0.2170, Val Loss = 1.2268, LR = 0.000205
+2025-10-04 13:21:21,698 - Average training loss: 0.0123
+2025-10-04 13:21:21,908 - Average validation loss: 0.5164, Accuracy: 86.00%
+2025-10-04 13:21:21,909 - Epoch 80: Train Loss = 0.0123, Val Loss = 0.5164, LR = 0.000204
+2025-10-04 13:21:22,700 - Average training loss: 0.0444
+2025-10-04 13:21:22,877 - Average validation loss: 0.5060, Accuracy: 88.00%
+2025-10-04 13:21:22,878 - Epoch 81: Train Loss = 0.0444, Val Loss = 0.5060, LR = 0.000202
+2025-10-04 13:21:23,703 - Average training loss: 0.0540
+2025-10-04 13:21:23,897 - Average validation loss: 1.2545, Accuracy: 88.00%
+2025-10-04 13:21:23,898 - Epoch 82: Train Loss = 0.0540, Val Loss = 1.2545, LR = 0.000201
+2025-10-04 13:21:24,675 - Average training loss: 0.0469
+2025-10-04 13:21:24,864 - Average validation loss: 0.3914, Accuracy: 88.00%
+2025-10-04 13:21:24,864 - Epoch 83: Train Loss = 0.0469, Val Loss = 0.3914, LR = 0.000200
+2025-10-04 13:21:25,639 - Average training loss: 0.0036
+2025-10-04 13:21:25,827 - Average validation loss: 0.5694, Accuracy: 86.00%
+2025-10-04 13:21:25,827 - Epoch 84: Train Loss = 0.0036, Val Loss = 0.5694, LR = 0.000199
+2025-10-04 13:21:26,639 - Average training loss: 0.0015
+2025-10-04 13:21:26,803 - Average validation loss: 0.3661, Accuracy: 88.00%
+2025-10-04 13:21:26,804 - Epoch 85: Train Loss = 0.0015, Val Loss = 0.3661, LR = 0.000198
+2025-10-04 13:21:27,585 - Average training loss: 0.0009
+2025-10-04 13:21:27,787 - Average validation loss: 0.3852, Accuracy: 88.00%
+2025-10-04 13:21:27,788 - Epoch 86: Train Loss = 0.0009, Val Loss = 0.3852, LR = 0.000196
+2025-10-04 13:21:28,653 - Average training loss: 0.0006
+2025-10-04 13:21:28,833 - Average validation loss: 0.4457, Accuracy: 88.00%
+2025-10-04 13:21:28,834 - Epoch 87: Train Loss = 0.0006, Val Loss = 0.4457, LR = 0.000195
+2025-10-04 13:21:29,666 - Average training loss: 0.0007
+2025-10-04 13:21:29,851 - Average validation loss: 0.3965, Accuracy: 88.00%
+2025-10-04 13:21:29,852 - Epoch 88: Train Loss = 0.0007, Val Loss = 0.3965, LR = 0.000194
+2025-10-04 13:21:30,707 - Average training loss: 0.0005
+2025-10-04 13:21:30,884 - Average validation loss: 0.4007, Accuracy: 88.00%
+2025-10-04 13:21:30,884 - Epoch 89: Train Loss = 0.0005, Val Loss = 0.4007, LR = 0.000193
+2025-10-04 13:21:31,697 - Average training loss: 0.0004
+2025-10-04 13:21:31,898 - Average validation loss: 0.4042, Accuracy: 86.00%
+2025-10-04 13:21:31,900 - Epoch 90: Train Loss = 0.0004, Val Loss = 0.4042, LR = 0.000192
+2025-10-04 13:21:32,808 - Average training loss: 0.0004
+2025-10-04 13:21:33,007 - Average validation loss: 0.4134, Accuracy: 86.00%
+2025-10-04 13:21:33,008 - Epoch 91: Train Loss = 0.0004, Val Loss = 0.4134, LR = 0.000191
+2025-10-04 13:21:33,888 - Average training loss: 0.0005
+2025-10-04 13:21:34,068 - Average validation loss: 0.5173, Accuracy: 86.00%
+2025-10-04 13:21:34,069 - Epoch 92: Train Loss = 0.0005, Val Loss = 0.5173, LR = 0.000190
+2025-10-04 13:21:34,871 - Average training loss: 0.0003
+2025-10-04 13:21:35,064 - Average validation loss: 0.4405, Accuracy: 86.00%
+2025-10-04 13:21:35,064 - Epoch 93: Train Loss = 0.0003, Val Loss = 0.4405, LR = 0.000189
+2025-10-04 13:21:35,900 - Average training loss: 0.0003
+2025-10-04 13:21:36,076 - Average validation loss: 0.4470, Accuracy: 84.00%
+2025-10-04 13:21:36,076 - Epoch 94: Train Loss = 0.0003, Val Loss = 0.4470, LR = 0.000188
+2025-10-04 13:21:36,874 - Average training loss: 0.0003
+2025-10-04 13:21:37,064 - Average validation loss: 0.4585, Accuracy: 84.00%
+2025-10-04 13:21:37,064 - Epoch 95: Train Loss = 0.0003, Val Loss = 0.4585, LR = 0.000187
+2025-10-04 13:21:37,853 - Average training loss: 0.0003
+2025-10-04 13:21:38,022 - Average validation loss: 0.4746, Accuracy: 86.00%
+2025-10-04 13:21:38,022 - Epoch 96: Train Loss = 0.0003, Val Loss = 0.4746, LR = 0.000186
+2025-10-04 13:21:38,823 - Average training loss: 0.0003
+2025-10-04 13:21:39,004 - Average validation loss: 0.5631, Accuracy: 86.00%
+2025-10-04 13:21:39,005 - Epoch 97: Train Loss = 0.0003, Val Loss = 0.5631, LR = 0.000185
+2025-10-04 13:21:39,794 - Average training loss: 0.0002
+2025-10-04 13:21:39,973 - Average validation loss: 0.5023, Accuracy: 86.00%
+2025-10-04 13:21:39,974 - Epoch 98: Train Loss = 0.0002, Val Loss = 0.5023, LR = 0.000184
+2025-10-04 13:21:40,757 - Average training loss: 0.0003
+2025-10-04 13:21:40,934 - Average validation loss: 0.6635, Accuracy: 84.00%
+2025-10-04 13:21:40,935 - Epoch 99: Train Loss = 0.0003, Val Loss = 0.6635, LR = 0.000183
+2025-10-04 13:21:41,742 - Average training loss: 0.0002
+2025-10-04 13:21:41,905 - Average validation loss: 0.5257, Accuracy: 86.00%
+2025-10-04 13:21:41,906 - Epoch 100: Train Loss = 0.0002, Val Loss = 0.5257, LR = 0.000182
